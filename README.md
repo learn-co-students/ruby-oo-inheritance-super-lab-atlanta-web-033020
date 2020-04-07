@@ -7,7 +7,7 @@
 
 ## Instructions
 
-In this lab, you'll be coding a `Student` class, which will be the parent class, and a `ChattyStudent` class, which will inherit from student. `ChattyStudent` *is* a student, and so should have all of the behaviors and characteristics of a student. However, `ChattyStudent` is *very chatty*. So, he or she will elaborate on any phrases that are inherited from `Student`. 
+In this lab, you'll be coding a `Student` class, which will be the parent class, and a `ChattyStudent` class, which will inherit from student. `ChattyStudent` *is* a student, and so should have all of the behaviors and characteristics of a student. But, `ChattyStudent` is *very chatty*. So, he or she will elaborate on any phrases that are inherited from `Student`. 
 
 * Write a method in the `Student` class, `#hello`, that `puts` out the phrase: `"Hey there! I'm so excited to learn stuff."`
 * Write a method in the `Student` class, `raise_hand`, that `puts` out the phrase: `"Pick me!"`
